@@ -10,11 +10,10 @@ The software simplifies volunteer management for organizations by providing func
 - Sending notifications and feedback requests
 
 ## 🛠️ Technologies Used
-- **C#** (.NET desktop application)
-- **Visual Studio**
-- **Oracle APEX** (for initial process modeling and data management)
-- **UML diagrams** (Use Case, Activity, Class diagrams using Visual Paradigm)
-- **BPMN, DFD, ER diagrams** (for business process modeling)
+- **C#** — application development
+- **Visual Studio 2022** — development environment
+- **Visual Paradigm** — UML modeling (Use Case, Activity, Class diagrams)
+- **BPMN, DFD, ER diagrams** — for business process modeling and documentation
 
 ## 🗂️ Project Structure
 - `/Documentation/` — Software requirements and design specifications (PDFs)
@@ -22,9 +21,9 @@ The software simplifies volunteer management for organizations by providing func
 - `/diagrams/` — UML and business process diagrams
 
 ## 📈 Project Status
-- ✅ Software Requirements Specification (Phase 1)
-- ✅ Design Specification (Phase 2)
-- 🛠️ C# Desktop Application — in development (Phase 3)
+- ✅ Phase 1: Software Requirements Specification (following 830-1998 - IEEE Recommended Practice for Software Requirements Specifications)
+- ✅ Phase 2: Design Specification (UML diagrams and architecture)
+- 🛠️ Phase 3: C# Desktop Application (in development)
 
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
