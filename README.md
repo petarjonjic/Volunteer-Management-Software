@@ -16,9 +16,8 @@ The software simplifies volunteer management for organizations by providing func
 - **BPMN, DFD, ER diagrams** — for business process modeling and documentation
 
 ## 🗂️ Project Structure
-- `/Documentation/` — Software requirements and design specifications (PDFs)
+- `/Documentation/` — Software requirements, design specifications (PDFs) and relevant diagrams and wireframes
 - `/app/` — Source code of the desktop application (in development)
-- `/diagrams/` — UML and business process diagrams
 
 ## 📈 Project Status
 - ✅ Phase 1: Software Requirements Specification (following 830-1998 - IEEE Recommended Practice for Software Requirements Specifications)
