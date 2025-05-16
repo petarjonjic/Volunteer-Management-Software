@@ -1,6 +1,6 @@
 # Volunteer Management Software
 
-University project for managing volunteer activities, task assignments, and reporting. Developed as part of the **Software Engineering** course at the Faculty of Organization and Informatics, University of Zagreb.
+University project for managing volunteer activities, task assignments, and reporting. Currently being developed as part of the **Software Engineering** course at the Faculty of Organization and Informatics, University of Zagreb.
 
 ## 📋 Project Overview
 The software simplifies volunteer management for organizations by providing functionalities such as:
