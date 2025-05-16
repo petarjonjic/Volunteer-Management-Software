@@ -11,7 +11,7 @@ The software simplifies volunteer management for organizations by providing func
 
 ## 🛠️ Technologies Used
 - **C#** — application development
-- **Visual Studio 2022** — development environment
+- **Visual Studio Community 2022** — development environment
 - **Visual Paradigm** — UML modeling (Use Case, Activity, Class diagrams)
 - **BPMN, DFD, ER diagrams** — for business process modeling and documentation
 
