@@ -2,20 +2,20 @@
 
 University project for managing volunteer activities, task assignments, and reporting. Currently being developed as part of the **Software Engineering** course at the Faculty of Organization and Informatics, University of Zagreb.
 
-## 📋 Project Overview
+## Project Overview
 The software simplifies volunteer management for organizations by providing functionalities such as:
 - Managing volunteer profiles and tracking their activity
 - Assigning and organizing tasks
 - Recording volunteer hours and generating reports
 - Sending notifications and feedback requests
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **C#** — application development
 - **Visual Studio Community 2022** — development environment
 - **Visual Paradigm** — UML modeling (Use Case, Activity, Class diagrams)
 - **BPMN, DFD, ER diagrams** — for business process modeling and documentation
 
-## 🗂️ Project Structure
+## Project Structure
 - `/Documentation/` — Software requirements, design specifications (PDFs) and relevant diagrams and wireframes
 - `/app/` — Source code of the desktop application (in development)
 
