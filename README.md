@@ -19,10 +19,10 @@ The software simplifies volunteer management for organizations by providing func
 - `/Documentation/` — Software requirements, design specifications (PDFs) and relevant diagrams and wireframes
 - `/app/` — Source code of the desktop application (in development)
 
-## 📈 Project Status
+## Project Status
 - ✅ Phase 1: Software Requirements Specification (following 830-1998 - IEEE Recommended Practice for Software Requirements Specifications)
 - ✅ Phase 2: Design Specification (UML diagrams and architecture)
 - 🛠️ Phase 3: C# Desktop Application (in development)
 
-## 📄 License
+## License
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
